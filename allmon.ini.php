@@ -3,7 +3,7 @@
 [49078]
 host=127.0.0.1:5033
 user=admin
-passwd=saumanagement123
+passwd=CHANGEME
 nomenu=yes
 hideNodeURL=no
 
